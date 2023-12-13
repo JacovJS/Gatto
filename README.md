@@ -29,5 +29,5 @@ module.exports.gatto = {
 this['botStart'] = async function({api, event, input}){
 //the input will be args
   //Do something
-}```
+}
 
