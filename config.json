@@ -1,0 +1,51 @@
+{
+  "prefix": "$",
+  "ad": [], //admin ids (facebook id)
+  "adminOnly": true,
+  "name": "El Gatto",
+  "logs": true,
+  "autoRestart": {
+    "status": true,
+    "perMins": 45
+  },
+  "ny": false,
+  "cm": false,
+  "quotes": [
+    "If you realize you made a mistake with the way you've been living your life, you just have to take the next moment and start over.",
+    "God would never put us through all this suffering if he didn't think we could bear it.",
+    "People can't live for the future without accepting reality.",
+    "Unnecessary thoughts will only interfere with your plays.",
+    "Human beings are strong because we have the ability to change ourselves.",
+    "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life. ",
+    "If people could become friends simply by sharing bread and salt, life would be simpler.",
+    "If I ignore a friend I have the ability to help, wouldn't I be betraying him?",
+    "If people scrutinize you, just ignore them and do whatever you want to do.",
+    "The words you've said cannot be taken back. So you must take action to paint over what you have already said.",
+    "The most certain way to succeed is to try one more time. Our greatest weakness lies in giving up.",
+    "The ideal tool for controlling people is fear. And nothing overwhelms people more than an unseen fear.",
+    "You shouldn't judge people by how they look.",
+    "The things we can't obtain are the most beautiful ones.",
+    "We have no need for the past. All we need are the present and the future.",
+    "What is really wicked... is judging people without even trying to get to know them!",
+    "The time when you're happy is also the time when you're afraid that the happiness will end.",
+    "The only one who should decide which path to follow is yourself.",
+    "Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do. ",
+    "You yourself have to change first, or nothing will change for you!"
+  ],
+  "autoGreet": true,
+  "morningGreet": "Good morning {groupName}, have a nice day!",
+  "afternoonGreet": "Good afternoon {groupName}, don't forget to eat!",
+  "eveningGreet": "Good evening {groupName}, It's too late to stay up, especially for the students who have school tomorrow (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)",
+  "m12": "Good morning {groupName}, sleepwell and sweetdreams to all those who's sleeping right now 😊",
+  "antiout": false,
+  "approval": false,
+  "setOpt": {
+    "forceLogin": false,
+    "listenEvents": true,
+    "logLevel": "error",
+    "selfListen": false,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
+  },
+  "autoPost": false
